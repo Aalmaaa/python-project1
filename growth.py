@@ -20,7 +20,7 @@ st.markdown(
 
 #title and decsription
 st.title(" Datasweeper Sterling Integrator By Aalma Irteza")
-st.write("Tram=nsform your files between CSV and Excel formats with built-in data cleaning and visualization Creating the project for quater 3!")
+st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization Creating the project for quater 3!")
     
 #file uploader
 uploader_files = st.files_uploader("Upload your files (accepts CSV or Excel):", type=["csv","xlsx"], accept_multiple_files=(True))
